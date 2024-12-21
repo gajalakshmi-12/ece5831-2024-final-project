@@ -97,6 +97,10 @@ TensorFlow **1.9.1** is required specifically for the fourth model.
 ```
 
 ---
+## Pre-recorded Presentation Video
+
+``` https://drive.google.com/drive/folders/1XLLTf7awft-R8du7idvgkLpnLXR2y3T0 ```
+
 ## Dataset Link, Presentation and Report Link 
 
 ``` https://drive.google.com/drive/folders/1uCi7SEJgELaYK9uzRt4PMDcmy29oNixp ```
